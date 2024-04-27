@@ -1,0 +1,6 @@
+2024-04-22T05:42:47+00:00 INFO Start-Cartflows_Frontend::redirect_to_thankyou_page
+2024-04-22T05:42:47+00:00 INFO Only for thank you page
+2024-04-22T05:42:47+00:00 INFO End-Cartflows_Frontend::redirect_to_thankyou_page
+2024-04-22T14:00:52+00:00 INFO Start-Cartflows_Admin_Report_Emails::send_weekly_report_email
+2024-04-22T14:00:52+00:00 INFO Send weekly emails to latap161984@gmail.com
+2024-04-22T14:00:52+00:00 INFO Total Revenue: <span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#8377;</span>0.00</bdi></span>
